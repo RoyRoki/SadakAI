@@ -1,0 +1,13 @@
+# SadakAI Road Hazard Dataset Configuration
+
+path: ./model/data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names:
+  0: pothole
+  1: crack
+  2: speed_breaker
+  3: waterlogging
