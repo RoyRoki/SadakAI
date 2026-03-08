@@ -300,9 +300,10 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) for de
 
 ## 📧 Contact
 
-- **Author:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username/SadakAI
+- **Author:** Roki Roy
+- **Email:** rokiroydev@gmail.com
+- **GitHub:** https://github.com/RoyRoki/SadakAI
+- **Website:** https://rokiroy.in
 
 ---
 
